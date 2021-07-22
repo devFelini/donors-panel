@@ -1,0 +1,7 @@
+{
+	"donate":   {"title": "Пожертвования",   "icon": "euro"},
+	"prayer":   {"title": "Записки",         "icon": "tablet"},
+	"bricks":   {"title": "Именные кирпичи", "icon": "grid"},
+	"report":   {"title": "Отчеты",          "icon": "puzzle"},
+	"settings": {"title": "Настройки",       "icon": "gear"}
+}

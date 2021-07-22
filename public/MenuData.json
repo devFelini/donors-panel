@@ -1,0 +1,7 @@
+[
+{"id": "nav-btn-donate",   "title": "Пожертвования",   "icon": "euro"},
+{"id": "nav-btn-prayer",   "title": "Записки",         "icon": "tablet"},
+{"id": "nav-btn-bricks",   "title": "Именные кирпичи", "icon": "grid"},
+{"id": "nav-btn-report",   "title": "Отчеты",          "icon": "puzzle"},
+{"id": "nav-btn-settings", "title": "Настройки",       "icon": "gear"}
+]

@@ -1,0 +1,22 @@
+{
+	"donate": [
+		{"title": "ID",      "class": "id",     "slug": "id"},
+		{"title": "Имя",     "class": "name",   "slug": "name"},
+		{"title": "Сумма",   "class": "price",  "slug": "price"},
+		{"title": "Время",   "class": "date",   "slug": "tag"}
+	],
+	"prayer": [  
+		{"title": "ID",      "class": "id",     "slug": "id"},
+		{"title": "Имена",   "class": "name",   "slug": "names"},
+		{"title": "Записка", "class": "prayer", "slug": "type"},
+		{"title": "Сумма",   "class": "price",  "slug": "price"},
+		{"title": "Время",   "class": "date",   "slug": "time"}
+	],
+	"bricks": [  
+		{"title": "ID",      "class": "id",     "slug": "id"},
+		{"title": "Имена",   "class": "name",   "slug": "names"},
+		{"title": "Номер",   "class": "num",    "slug": "number"},
+		{"title": "Сумма",   "class": "price",  "slug": "price"},
+		{"title": "Время",   "class": "date",   "slug": "time"}
+	]
+}
